@@ -29,7 +29,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		int a=3;
+		int a=7;
 		img = new Texture(Gdx.files.internal("banana.png"));
 		img2 = new Texture(Gdx.files.internal("apple.png"));
 		img3 = new Texture(Gdx.files.internal("tomato.png"));
